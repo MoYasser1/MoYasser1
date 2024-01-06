@@ -1,19 +1,7 @@
 <h1 align="left">Hi 👋! My name is Mohamed Yasser and I'm a Software engineering,from Egypt</h2>
+<h2>Full Stack</h2>
 
-###
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+<img align="right" height="150" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 ###
 
