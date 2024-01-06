@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="http://www.codeit.kr/"  />
+<img align="right" height="150" src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l"  />
 
 
 ###
