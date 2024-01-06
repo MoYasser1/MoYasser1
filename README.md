@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="425" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+<img align="right" height="425" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.arnabghosh.me%2Fadd-github-dark-snake-animation-readme&psig=AOvVaw1XJOtMQzzXtsmEce7I6qGu&ust=1704631441087000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjcharlyIMDFQAAAAAdAAAAABAO"  />
 
 ###
 
