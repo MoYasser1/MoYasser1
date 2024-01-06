@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <a href="[https://www.instagram.com/your_instagram_handle/](https://www.instagram.com/mohamed_ashor?igsh=ODA1NTc5OTg5Nw%3D%3D&utm_source=qr)">
+  <a href="https://www.instagram.com/mohamed_ashor?igsh=ODA1NTc5OTg5Nw%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://www.twitch.tv/your_twitch_handle/">
