@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋! My name is Mohamed Yasser and I'm a Software engineering,from Egypt</h2>
-<h2>Full Stack</h2>
 
 <img align="right" height="150" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
