@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="450" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+<img align="right" height="150" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
 ###
 
