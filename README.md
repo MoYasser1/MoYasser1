@@ -1,37 +1,49 @@
-# Maxime Tournier
-📍 23 years old, Egypt
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-## About Me
-- 👨‍💼 CEO & Founder of [Tyrolium](https://tyrolium.fr/)
-- 🌐 [Tyrolium Discord](https://discord.gg/mtDx9ceS7n)
-- 📧 E-Mail: maxime.tournier@tyrolium.fr
-- 📷 [Instagram](https://www.instagram.com/the_maxime_san/)
-- 🐦 [Twitter](https://twitter.com/MaximeTournier2)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/maxime-tournier-tyrolium/)
-  
-## Skills
-- **Languages**: `Java`, `PHP`, `JS`, `TS`, `HTML`, `CSS`, `SQL`, `PowerShell`, `Bash`, `C++`, `Batch`, `C#`
-- **Frameworks/Libraries/Engines**: [`Angular`](https://angular.io/), [`NodeJS`](https://nodejs.org/), [`Electron`](https://www.electronjs.org/), [`Bootstrap`](https://getbootstrap.com/), [`Material-UI CSS`](https://www.muicss.com), [`Symfony`](https://symfony.com/), [`MySQL`](https://www.mysql.com/), [`MariaDB`](https://mariadb.org/), [`PhpMyAdmin`](https://www.phpmyadmin.net/), [`WordPress`](https://wordpress.com/), [`WHMCS`](https://www.whmcs.com/), [`Pterodactyl`](https://pterodactyl.io/), [`Unity`](https://unity.com/)
-  
-## Software and OS
-- **Desktop**: [`GNU/Linux - Kubuntu`](https://kubuntu.org/), [`Windows 11`](https://www.microsoft.com/fr-fr/windows/)
-- **Server**: [`GNU/Linux - Debian`](https://www.debian.org/)
-- **IDEs**: [`IntelliJ Idea`](https://www.jetbrains.com/fr-fr/idea/), [`Visual Studio Code`](https://code.visualstudio.com/)
-  
-## GitHub Stats
+###
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheMaxium69&count_private=true&show_icons=true&theme=synthwave" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaxium69&theme=synthwave&layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## My Organizations
-- [![Tyrolium](https://img.shields.io/badge/Organization-Tyrolium-0035DA)](https://github.com/Tyrolium)
-- [![TyroServ](https://img.shields.io/badge/Organization-TyroServ-1d8e25)](https://github.com/TyroServ)
-- [![SolidServ](https://img.shields.io/badge/Organization-SolidServ-3D6BDF)](https://github.com/SolidServ)
-- [![Maxime/MINECRAFT](https://img.shields.io/badge/Organization-Maxime/MINECRAFT-cc391f)](https://github.com/TheMaximeSan-NoCode)
-  
-## Social Networks
-- 🌐 [Discord](https://discord.gg/mtDx9ceS7n)
-- 🌐 [YouTube Channel](https://www.youtube.com/channel/UCCWOQ5ZyLgg5hWldBCdikaQ)
-- 🌐 [Twitch](https://www.twitch.tv/themaximesan/)
-- 🌐 [GitHub](https://github.com/TheMaxium69/)
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
