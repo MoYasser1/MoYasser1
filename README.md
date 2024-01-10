@@ -39,19 +39,22 @@ Hi 👋! My name is Mohamed Yasser, a passionate software engineer and web devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <!-- ... (المزيد من الأيقونات) ... -->
 </div>
 
 
 
 ## Connect with Me
 <div align="left">
+    <a href="https://www.linkedin.com/in/mohamed-yasser-13349a25a/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+    <a href="https://twitter.com/devmohamedashor">
+    <img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
   <a href="https://www.instagram.com/mohamed_ashor/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-yasser-13349a25a/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+
 </div>
 
 <br clear="both">
