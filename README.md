@@ -46,7 +46,7 @@ Hi 👋! My name is Mohamed Yasser, a passionate software engineer and web devel
 ## Connect with Me
 <div align="left">
     <a href="https://www.linkedin.com/in/mohamed-yasser-13349a25a/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://www.linkedin.com/in/mohamed-ashor-13349a25a/)" height="35" alt="linkedin logo" />
   </a>
     <a href="https://twitter.com/devmohamedashor">
     <img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
