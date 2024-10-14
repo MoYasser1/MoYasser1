@@ -8,6 +8,7 @@
 Hi 👋! My name is Mohamed Yasser, a passionate software engineer and web developer based in 10th of Ramadan, Egypt. I hold a degree in Computer Science.
 
 ## Skills
+- C#
 - JavaScript
 - React
 - Angular
@@ -18,7 +19,6 @@ Hi 👋! My name is Mohamed Yasser, a passionate software engineer and web devel
 - HTML5
 - CSS3
 - Python
-- C#
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
