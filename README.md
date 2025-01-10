@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-Hi 👋! My name is Mohamed Yasser, a passionate software engineer and web developer based in 10th of Ramadan, Egypt. I hold a degree in Computer Science.
+Hi 👋! As a passionate Software Engineer and 2023 Computer Science graduate, I specialize in web development with .NET and Angular. My professional journey began at HPP Shop, where I contributed as a frontend developer and expanded into full-stack web development through freelance work.
 
 ## Skills
 - C#
