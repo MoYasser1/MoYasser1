@@ -58,3 +58,4 @@ Hi 👋! My name is Mohamed Yasser, a passionate software engineer and web devel
 </div>
 
 <br clear="both">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&width=435&lines=Thank+you+for+your+visiting!+%F0%9F%9A%80)](https://git.io/typing-svg)
